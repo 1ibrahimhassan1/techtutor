@@ -1,13 +1,15 @@
 {
-  "main.css": "/techtutor/static/css/main.a298af6f.chunk.css",
-  "main.js": "/techtutor/static/js/main.50e0ebd0.chunk.js",
-  "main.js.map": "/techtutor/static/js/main.50e0ebd0.chunk.js.map",
+  "main.css": "/techtutor/static/css/main.3c307ca5.chunk.css",
+  "main.js": "/techtutor/static/js/main.c53e4f4b.chunk.js",
+  "main.js.map": "/techtutor/static/js/main.c53e4f4b.chunk.js.map",
   "runtime~main.js": "/techtutor/static/js/runtime~main.e58de6fe.js",
   "runtime~main.js.map": "/techtutor/static/js/runtime~main.e58de6fe.js.map",
-  "static/js/2.479927cb.chunk.js": "/techtutor/static/js/2.479927cb.chunk.js",
-  "static/js/2.479927cb.chunk.js.map": "/techtutor/static/js/2.479927cb.chunk.js.map",
+  "static/css/2.f7ad7e9d.chunk.css": "/techtutor/static/css/2.f7ad7e9d.chunk.css",
+  "static/js/2.6caf457b.chunk.js": "/techtutor/static/js/2.6caf457b.chunk.js",
+  "static/js/2.6caf457b.chunk.js.map": "/techtutor/static/js/2.6caf457b.chunk.js.map",
   "index.html": "/techtutor/index.html",
-  "precache-manifest.c9d6282e4e4f30a1c1a50a4f4e1b95aa.js": "/techtutor/precache-manifest.c9d6282e4e4f30a1c1a50a4f4e1b95aa.js",
+  "precache-manifest.428658599d033b46dd19cd1a31ea90b3.js": "/techtutor/precache-manifest.428658599d033b46dd19cd1a31ea90b3.js",
   "service-worker.js": "/techtutor/service-worker.js",
-  "static/css/main.a298af6f.chunk.css.map": "/techtutor/static/css/main.a298af6f.chunk.css.map"
+  "static/css/2.f7ad7e9d.chunk.css.map": "/techtutor/static/css/2.f7ad7e9d.chunk.css.map",
+  "static/css/main.3c307ca5.chunk.css.map": "/techtutor/static/css/main.3c307ca5.chunk.css.map"
 }
