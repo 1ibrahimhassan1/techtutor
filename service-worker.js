@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/techtutor/precache-manifest.419c0fcf7c16cc94eceb26624270a773.js"
+  "/techtutor/precache-manifest.3dcd86748feccc27b50d1fd7d195f287.js"
 );
 
 workbox.clientsClaim();
