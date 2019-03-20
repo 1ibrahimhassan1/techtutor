@@ -1,5 +1,5 @@
 {
-  "main.css": "/techtutor/static/css/main.f9515868.chunk.css",
+  "main.css": "/techtutor/static/css/main.6c7614af.chunk.css",
   "main.js": "/techtutor/static/js/main.e21cb9c5.chunk.js",
   "main.js.map": "/techtutor/static/js/main.e21cb9c5.chunk.js.map",
   "runtime~main.js": "/techtutor/static/js/runtime~main.e58de6fe.js",
@@ -8,8 +8,8 @@
   "static/js/2.fc9566ba.chunk.js": "/techtutor/static/js/2.fc9566ba.chunk.js",
   "static/js/2.fc9566ba.chunk.js.map": "/techtutor/static/js/2.fc9566ba.chunk.js.map",
   "index.html": "/techtutor/index.html",
-  "precache-manifest.1a631e0ea593f859e5e548d8ecc9eecf.js": "/techtutor/precache-manifest.1a631e0ea593f859e5e548d8ecc9eecf.js",
+  "precache-manifest.247a204258d86242e46bcc565535a6bc.js": "/techtutor/precache-manifest.247a204258d86242e46bcc565535a6bc.js",
   "service-worker.js": "/techtutor/service-worker.js",
   "static/css/2.f7ad7e9d.chunk.css.map": "/techtutor/static/css/2.f7ad7e9d.chunk.css.map",
-  "static/css/main.f9515868.chunk.css.map": "/techtutor/static/css/main.f9515868.chunk.css.map"
+  "static/css/main.6c7614af.chunk.css.map": "/techtutor/static/css/main.6c7614af.chunk.css.map"
 }
