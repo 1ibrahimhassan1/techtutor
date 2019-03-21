@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/techtutor/static/js/runtime~main.e58de6fe.js"
   },
   {
-    "revision": "1cfb544b8a1d63ea9be9",
-    "url": "/techtutor/static/js/main.22d92686.chunk.js"
+    "revision": "79ee863fa908a692b8c6",
+    "url": "/techtutor/static/js/main.e0d1fccf.chunk.js"
   },
   {
-    "revision": "80e2e31e7ad45c073802",
-    "url": "/techtutor/static/js/2.4097ba69.chunk.js"
+    "revision": "15a8cbdb538ebedb455f",
+    "url": "/techtutor/static/js/2.21343154.chunk.js"
   },
   {
-    "revision": "1cfb544b8a1d63ea9be9",
+    "revision": "79ee863fa908a692b8c6",
     "url": "/techtutor/static/css/main.ef12abb3.chunk.css"
   },
   {
-    "revision": "80e2e31e7ad45c073802",
+    "revision": "15a8cbdb538ebedb455f",
     "url": "/techtutor/static/css/2.f7ad7e9d.chunk.css"
   },
   {
-    "revision": "9f1da80b469f82c59d78fe67f4836169",
+    "revision": "1e523065ee89fa60a4b9c5cf9aaea707",
     "url": "/techtutor/index.html"
   }
 ];
